@@ -1,0 +1,7 @@
+C:\Users\c.doris\source\repos\grayed\grayed\bin\Debug\grayed.exe.config
+C:\Users\c.doris\source\repos\grayed\grayed\bin\Debug\grayed.exe
+C:\Users\c.doris\source\repos\grayed\grayed\bin\Debug\grayed.pdb
+C:\Users\c.doris\source\repos\grayed\grayed\obj\Debug\grayed.csprojAssemblyReference.cache
+C:\Users\c.doris\source\repos\grayed\grayed\obj\Debug\grayed.csproj.CoreCompileInputs.cache
+C:\Users\c.doris\source\repos\grayed\grayed\obj\Debug\grayed.exe
+C:\Users\c.doris\source\repos\grayed\grayed\obj\Debug\grayed.pdb
